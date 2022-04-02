@@ -1,6 +1,6 @@
 {
   "name": "react_app",
-  "homepage": "https://movie-land-blond.vercel.app/ ",
+  "homepage": "https://movie-land-blond.vercel.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
